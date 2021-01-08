@@ -1,25 +1,25 @@
 # NASApp Project
 <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" alt="logo" width="50%" style="margin: 0 auto;" />
 
-A mobile App designed for **Astrophiles** (people who love stars or astronomy). The user can see Astronomy Picture of the Day, search the NASA database, save the favorite result, and see his favorites.
+A mobile App designed for **Astrophiles** (people who love stars or astronomy  🌟😍). The user can see Astronomy Picture of the Day, search the NASA database, save the favorite result, and see his favorites.
 
-This is a **MERN FullStack Application**.
+This is a **MERN FullStack Application** 😎.
 
-## project Screenshots
-### NavBar 
+## 📷 project Screenshots
+### 👀 NavBar 
 <div style="text-align: center;">
 <img src="./navbar.PNG" width="50%"/>
 </div>
 
-### home
+### 🏠 home
 
 render data from external API called Astronomy Picture of the Day (APOD) from [NASA](https://api.nasa.gov/) API
 
 <img src="./home.png" width="40%"/>
 
-### Search
+### 🚀 Search
 
-The user can search any keyword and results will be displayed from **NASA Image and Video Library**. If the user liked that image, the image will be added to the favorites in the database. 
+The user can search any keyword and results will be displayed from **NASA Image and Video Library**. If the user liked that image 😍, the image will be added to the favorites in the database. 
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap:2vw;">
 <img src="./search.png" width="30%" /> 
@@ -27,7 +27,7 @@ The user can search any keyword and results will be displayed from **NASA Image 
 <img src="./save.png" width="30%"/>
 </div>
 
-### Favorites
+### 😍 Favorites
 
 Display the favorite images from the Database. The user can see each one separately with its explanation and also delete the image.
 
@@ -37,16 +37,16 @@ Display the favorite images from the Database. The user can see each one separat
 <img src="./delete.png" width="30%"/>
 </div>
 
-## Technology used
+## 💻 Technology used
 
 - Client-side: React, Material-ui, 
-- Server: NodeJs, Express, mongoose
+- Server: NodeJs, Express, mongoose 
 - Database: MongoDB
 - External API is [NASA API](https://api.nasa.gov/) which include
     - [APOD](https://apod.nasa.gov/apod/astropix.html): Astronomy Picture of the Day
     - [NASA Image and Video Library](images.nasa.gov)
 
-## Getting Started
+## 🔧 Getting Started
 
 - Clone this repository. You will need `node`, `npm` and `MongoDB` installed globally on your machine.
 - **Windows:** run `mongod` in the command line 
