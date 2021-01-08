@@ -39,7 +39,7 @@ Display the favorite images from the Database. The user can see each one separat
 
 ## 💻 Technology used
 
-- Client-side: React, Material-ui, 
+- Client-side: React, Material-ui
 - Server: NodeJs, Express, mongoose 
 - Database: MongoDB
 - External API is [NASA API](https://api.nasa.gov/) which include
