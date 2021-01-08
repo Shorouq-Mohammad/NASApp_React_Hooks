@@ -1,6 +1,6 @@
 # NASApp Project
 <div style="text-align:center;">
-<img src="https://assets.stickpng.com/images/58429400a6515b1e0ad75acc.png" alt="drawing" width="30%" />
+<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" alt="logo" width="50%" />
 </div>
 
 A mobile App designed for **Astrophiles** (people who love stars or astronomy). The user can see Astronomy Picture of the Day, search the NASA database, save the favorite result, and see his favorites.
@@ -10,7 +10,7 @@ This is a **MERN FullStack Application**.
 ## project Screenshots
 ### NavBar 
 <div style="text-align: center;">
-<img src="./navbar.png" width="50%"/>
+<img src="./navbar.PNG" width="50%"/>
 </div>
 
 ### home
