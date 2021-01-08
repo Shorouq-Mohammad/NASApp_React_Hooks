@@ -25,20 +25,20 @@ render data from external API called Astronomy Picture of the Day (APOD) from [N
 
 The user can search any keyword and results will be displayed from **NASA Image and Video Library**. If the user liked that image, the image will be added to the favorites in the database. 
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap:0.5vw;">
-<img src="./search.png" />
-<img src="./search2.png" />
-<img src="./save.png"/>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap:1vw;">
+<img src="./search.png" width="30%" /> 
+<img src="./search2.PNG" width="30%" /> 
+<img src="./save.png" width="30%"/>
 </div>
 
 ### Favorites
 
 Display the favorite images from the Database. The user can see each one separately with its explanation and also delete the image.
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap:0.5vw;">
-<img src="./favorites.png" />
-<img src="./favoriteId.png" />
-<img src="./delete.png"/>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap:1vw;">
+<img src="./favorites.png" width="30%"/>
+<img src="./favoriteId.png" width="30%"/>
+<img src="./delete.png" width="30%"/>
 </div>
 
 ## Technology used
