@@ -1,7 +1,5 @@
 # NASApp Project
-<div style="text-align:center;">
-<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" alt="logo" width="50%" />
-</div>
+<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" alt="logo" width="50%" style="margin: 0 auto;" />
 
 A mobile App designed for **Astrophiles** (people who love stars or astronomy). The user can see Astronomy Picture of the Day, search the NASA database, save the favorite result, and see his favorites.
 
@@ -17,9 +15,7 @@ This is a **MERN FullStack Application**.
 
 render data from external API called Astronomy Picture of the Day (APOD) from [NASA](https://api.nasa.gov/) API
 
-<div style="text-align: center;">
 <img src="./home.png" width="40%"/>
-</div>
 
 ### Search
 
